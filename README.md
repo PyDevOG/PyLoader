@@ -30,16 +30,13 @@ PyLoader Tools is a set of tools designed for building and managing client-serve
      - **macOS**: Creates a plist file in `~/Library/LaunchAgents`.
      - **Linux**: Creates a `.desktop` file in `~/.config/autostart`.
 
-8. **Icon Support**
-   - Allows users to specify an icon file for the generated client executable.
-
-9. **Graphical User Interface (GUI)**
+8. **Graphical User Interface (GUI)**
    - Provides a user-friendly interface using PyQt5 for configuring client options.
 
-10. **Script Generation**
+9. **Script Generation**
     - Generates a Python script based on the selected options and target operating system.
 
-11. **Executable Creation**
+10. **Executable Creation**
     - Uses PyInstaller to create a standalone executable for Windows.
 
 ### Server
