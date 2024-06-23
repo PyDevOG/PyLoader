@@ -92,4 +92,4 @@ PyLoader Tools is a set of tools designed for building and managing client-serve
 
 ```bash
 git clone https://github.com/PyDevOG/PyLoader.git
-cd pynet-tools
+cd PyLoader
