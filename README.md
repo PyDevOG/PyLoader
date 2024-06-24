@@ -93,3 +93,29 @@ PyLoader Tools is a set of tools designed for building and managing client-serve
 ```bash
 git clone https://github.com/PyDevOG/PyLoader.git
 cd PyLoader
+
+----------Terms of Service for Py Loader------------------------------------------------------------------------
+
+Welcome to Py Loader. By using this software, you agree to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern our relationship with you in relation to this software. If you disagree with any part of these terms and conditions, please do not use our software.
+
+--Educational Purposes Only--
+Purpose: Py Loader is designed solely for educational purposes. The primary aim is to help users learn about client-server interactions, scripting, and basic cybersecurity concepts.
+
+--Ethical Use--
+Ethical Use: You agree to use Py Loader in an ethical manner. This means using it in a controlled, secure, and legal environment. Misuse of this software for any malicious activities, including but not limited to unauthorized access to computer systems, is strictly prohibited.
+
+--Responsibility and Liability--
+No Responsibility: The creators and contributors of Py Loader take no responsibility for any misuse or damage caused by this software. Users are solely responsible for their actions when using this software.
+No Warranty: Py Loader is provided "as-is" without any warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of the software is with you.
+
+--Safe Environment--
+Safe Environment: You agree to use Py Loader in a secure and controlled environment. This includes using it in isolated networks, virtual machines, or other safe environments where any potential harm can be mitigated.
+
+--Compliance with Laws--
+Legal Compliance: You agree to comply with all applicable local, state, national, and international laws and regulations in connection with your use of Py Loader.
+
+--Changes to Terms--
+Modification of Terms: The creators of Py Loader reserve the right to modify these terms at any time. Any changes will be posted on this page, and your continued use of the software after any changes have been posted constitutes your acceptance of the new terms.
+
+--Governing Law--
+Governing Law: These terms and conditions are governed by and construed in accordance with the laws of the jurisdiction in which the creators are based, and you irrevocably submit to the exclusive jurisdiction of the courts in that jurisdiction.
