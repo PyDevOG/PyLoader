@@ -118,4 +118,4 @@ Legal Compliance: You agree to comply with all applicable local, state, national
 Modification of Terms: The creators of Py Loader reserve the right to modify these terms at any time. Any changes will be posted on this page, and your continued use of the software after any changes have been posted constitutes your acceptance of the new terms.
 
 --Governing Law--
-Governing Law: These terms and conditions are governed by and construed in accordance with the laws of the jurisdiction in which the creators are based, and you irrevocably submit to the exclusive jurisdiction of the courts in that jurisdiction.
+Governing Law: These terms and conditions are governed by and construed in accordance with the laws of the jurisdiction in which the USER are based, and you irrevocably submit to the exclusive jurisdiction of the courts in that jurisdiction.
